@@ -37,3 +37,5 @@ defaults:
       path: "assets/images"
     values:
       image: true
+
+video-title: Aloha-Mundo
